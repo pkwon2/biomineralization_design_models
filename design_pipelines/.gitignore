@@ -6,3 +6,15 @@ bin/src
 
 /data/databases/
 data/databases/
+
+# Python virtual environments
+myenv/
+venv/
+.venv/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
