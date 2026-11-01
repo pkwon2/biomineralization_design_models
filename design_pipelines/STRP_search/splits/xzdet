@@ -1,0 +1,10 @@
+python3 ./bin/strpsearch.py download-model Q42368 /net/scratch/pkwon2/repeatsdb/Q42368
+python3 ./bin/strpsearch.py download-model Q42371 /net/scratch/pkwon2/repeatsdb/Q42371
+python3 ./bin/strpsearch.py download-model Q42384 /net/scratch/pkwon2/repeatsdb/Q42384
+python3 ./bin/strpsearch.py download-model Q42406 /net/scratch/pkwon2/repeatsdb/Q42406
+python3 ./bin/strpsearch.py download-model Q42524 /net/scratch/pkwon2/repeatsdb/Q42524
+python3 ./bin/strpsearch.py download-model Q42529 /net/scratch/pkwon2/repeatsdb/Q42529
+python3 ./bin/strpsearch.py download-model Q42534 /net/scratch/pkwon2/repeatsdb/Q42534
+python3 ./bin/strpsearch.py download-model Q42586 /net/scratch/pkwon2/repeatsdb/Q42586
+python3 ./bin/strpsearch.py download-model Q42608 /net/scratch/pkwon2/repeatsdb/Q42608
+python3 ./bin/strpsearch.py download-model Q42656 /net/scratch/pkwon2/repeatsdb/Q42656

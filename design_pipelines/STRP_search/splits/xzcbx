@@ -1,0 +1,10 @@
+python3 ./bin/strpsearch.py download-model P17036 /net/scratch/pkwon2/repeatsdb/P17036
+python3 ./bin/strpsearch.py download-model P17038 /net/scratch/pkwon2/repeatsdb/P17038
+python3 ./bin/strpsearch.py download-model P17039 /net/scratch/pkwon2/repeatsdb/P17039
+python3 ./bin/strpsearch.py download-model P17040 /net/scratch/pkwon2/repeatsdb/P17040
+python3 ./bin/strpsearch.py download-model P17041 /net/scratch/pkwon2/repeatsdb/P17041
+python3 ./bin/strpsearch.py download-model P17050 /net/scratch/pkwon2/repeatsdb/P17050
+python3 ./bin/strpsearch.py download-model P17063 /net/scratch/pkwon2/repeatsdb/P17063
+python3 ./bin/strpsearch.py download-model P17069 /net/scratch/pkwon2/repeatsdb/P17069
+python3 ./bin/strpsearch.py download-model P17070 /net/scratch/pkwon2/repeatsdb/P17070
+python3 ./bin/strpsearch.py download-model P17097 /net/scratch/pkwon2/repeatsdb/P17097

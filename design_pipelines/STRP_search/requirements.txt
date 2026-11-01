@@ -1,0 +1,13 @@
+biopython
+numpy
+pandas
+matplotlib
+requests
+rich
+scipy
+seaborn
+typer[all]
+# Install these using conda
+# conda install -c conda-forge -c bioconda foldseek
+# conda install -c bioconda tmalign
+# conda install -c conda-forge pymol-open-source

@@ -1,0 +1,10 @@
+python3 ./bin/strpsearch.py download-model A9IRK3 /net/scratch/pkwon2/repeatsdb/A9IRK3
+python3 ./bin/strpsearch.py download-model A9IS38 /net/scratch/pkwon2/repeatsdb/A9IS38
+python3 ./bin/strpsearch.py download-model A9IS46 /net/scratch/pkwon2/repeatsdb/A9IS46
+python3 ./bin/strpsearch.py download-model A9IS79 /net/scratch/pkwon2/repeatsdb/A9IS79
+python3 ./bin/strpsearch.py download-model A9IU63 /net/scratch/pkwon2/repeatsdb/A9IU63
+python3 ./bin/strpsearch.py download-model A9IUY4 /net/scratch/pkwon2/repeatsdb/A9IUY4
+python3 ./bin/strpsearch.py download-model A9IXV7 /net/scratch/pkwon2/repeatsdb/A9IXV7
+python3 ./bin/strpsearch.py download-model A9IYN9 /net/scratch/pkwon2/repeatsdb/A9IYN9
+python3 ./bin/strpsearch.py download-model A9IYW1 /net/scratch/pkwon2/repeatsdb/A9IYW1
+python3 ./bin/strpsearch.py download-model A9IYX0 /net/scratch/pkwon2/repeatsdb/A9IYX0

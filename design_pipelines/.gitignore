@@ -1,0 +1,8 @@
+.idea
+__pycache__
+bin/__pycache__
+bin/src
+*.pyc
+
+/data/databases/
+data/databases/

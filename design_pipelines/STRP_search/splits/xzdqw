@@ -1,0 +1,10 @@
+python3 ./bin/strpsearch.py download-model Q68S21 /net/scratch/pkwon2/repeatsdb/Q68S21
+python3 ./bin/strpsearch.py download-model Q68SN8 /net/scratch/pkwon2/repeatsdb/Q68SN8
+python3 ./bin/strpsearch.py download-model Q68VU6 /net/scratch/pkwon2/repeatsdb/Q68VU6
+python3 ./bin/strpsearch.py download-model Q68W08 /net/scratch/pkwon2/repeatsdb/Q68W08
+python3 ./bin/strpsearch.py download-model Q68WF7 /net/scratch/pkwon2/repeatsdb/Q68WF7
+python3 ./bin/strpsearch.py download-model Q68WP2 /net/scratch/pkwon2/repeatsdb/Q68WP2
+python3 ./bin/strpsearch.py download-model Q68X69 /net/scratch/pkwon2/repeatsdb/Q68X69
+python3 ./bin/strpsearch.py download-model Q68XD1 /net/scratch/pkwon2/repeatsdb/Q68XD1
+python3 ./bin/strpsearch.py download-model Q68XH5 /net/scratch/pkwon2/repeatsdb/Q68XH5
+python3 ./bin/strpsearch.py download-model Q68XT6 /net/scratch/pkwon2/repeatsdb/Q68XT6

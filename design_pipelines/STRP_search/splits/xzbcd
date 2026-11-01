@@ -1,0 +1,10 @@
+python3 ./bin/strpsearch.py download-model B1XD35 /net/scratch/pkwon2/repeatsdb/B1XD35
+python3 ./bin/strpsearch.py download-model B1XD46 /net/scratch/pkwon2/repeatsdb/B1XD46
+python3 ./bin/strpsearch.py download-model B1XD50 /net/scratch/pkwon2/repeatsdb/B1XD50
+python3 ./bin/strpsearch.py download-model B1XDI9 /net/scratch/pkwon2/repeatsdb/B1XDI9
+python3 ./bin/strpsearch.py download-model B1XDQ0 /net/scratch/pkwon2/repeatsdb/B1XDQ0
+python3 ./bin/strpsearch.py download-model B1XDU7 /net/scratch/pkwon2/repeatsdb/B1XDU7
+python3 ./bin/strpsearch.py download-model B1XEA5 /net/scratch/pkwon2/repeatsdb/B1XEA5
+python3 ./bin/strpsearch.py download-model B1XFJ1 /net/scratch/pkwon2/repeatsdb/B1XFJ1
+python3 ./bin/strpsearch.py download-model B1XG01 /net/scratch/pkwon2/repeatsdb/B1XG01
+python3 ./bin/strpsearch.py download-model B1XGT9 /net/scratch/pkwon2/repeatsdb/B1XGT9

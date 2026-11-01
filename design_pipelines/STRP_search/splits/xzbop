@@ -1,0 +1,10 @@
+python3 ./bin/strpsearch.py download-model C3LIA6 /net/scratch/pkwon2/repeatsdb/C3LIA6
+python3 ./bin/strpsearch.py download-model C3LIY7 /net/scratch/pkwon2/repeatsdb/C3LIY7
+python3 ./bin/strpsearch.py download-model C3LJ22 /net/scratch/pkwon2/repeatsdb/C3LJ22
+python3 ./bin/strpsearch.py download-model C3LKM5 /net/scratch/pkwon2/repeatsdb/C3LKM5
+python3 ./bin/strpsearch.py download-model C3LLI5 /net/scratch/pkwon2/repeatsdb/C3LLI5
+python3 ./bin/strpsearch.py download-model C3LLL5 /net/scratch/pkwon2/repeatsdb/C3LLL5
+python3 ./bin/strpsearch.py download-model C3LLQ5 /net/scratch/pkwon2/repeatsdb/C3LLQ5
+python3 ./bin/strpsearch.py download-model C3LN54 /net/scratch/pkwon2/repeatsdb/C3LN54
+python3 ./bin/strpsearch.py download-model C3LNA0 /net/scratch/pkwon2/repeatsdb/C3LNA0
+python3 ./bin/strpsearch.py download-model C3LND9 /net/scratch/pkwon2/repeatsdb/C3LND9

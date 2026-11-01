@@ -1,0 +1,10 @@
+python3 ./bin/strpsearch.py download-pdb 6bp7 /net/scratch/pkwon2/repeatsdb/6bp7 --chain A
+python3 ./bin/strpsearch.py download-pdb 6bp8 /net/scratch/pkwon2/repeatsdb/6bp8 --chain A
+python3 ./bin/strpsearch.py download-pdb 6bpm /net/scratch/pkwon2/repeatsdb/6bpm --chain A
+python3 ./bin/strpsearch.py download-pdb 6br6 /net/scratch/pkwon2/repeatsdb/6br6 --chain A
+python3 ./bin/strpsearch.py download-pdb 6bt9 /net/scratch/pkwon2/repeatsdb/6bt9 --chain A
+python3 ./bin/strpsearch.py download-pdb 6bve /net/scratch/pkwon2/repeatsdb/6bve --chain A
+python3 ./bin/strpsearch.py download-pdb 6bvt /net/scratch/pkwon2/repeatsdb/6bvt --chain E
+python3 ./bin/strpsearch.py download-pdb 6bvv /net/scratch/pkwon2/repeatsdb/6bvv --chain A
+python3 ./bin/strpsearch.py download-pdb 6bvz /net/scratch/pkwon2/repeatsdb/6bvz --chain A
+python3 ./bin/strpsearch.py download-pdb 6bw0 /net/scratch/pkwon2/repeatsdb/6bw0 --chain E

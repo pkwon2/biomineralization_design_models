@@ -1,0 +1,10 @@
+python3 ./bin/strpsearch.py download-model Q75B10 /net/scratch/pkwon2/repeatsdb/Q75B10
+python3 ./bin/strpsearch.py download-model Q75B91 /net/scratch/pkwon2/repeatsdb/Q75B91
+python3 ./bin/strpsearch.py download-model Q75BS2 /net/scratch/pkwon2/repeatsdb/Q75BS2
+python3 ./bin/strpsearch.py download-model Q75BS7 /net/scratch/pkwon2/repeatsdb/Q75BS7
+python3 ./bin/strpsearch.py download-model Q75BY3 /net/scratch/pkwon2/repeatsdb/Q75BY3
+python3 ./bin/strpsearch.py download-model Q75C26 /net/scratch/pkwon2/repeatsdb/Q75C26
+python3 ./bin/strpsearch.py download-model Q75C62 /net/scratch/pkwon2/repeatsdb/Q75C62
+python3 ./bin/strpsearch.py download-model Q75C70 /net/scratch/pkwon2/repeatsdb/Q75C70
+python3 ./bin/strpsearch.py download-model Q75C99 /net/scratch/pkwon2/repeatsdb/Q75C99
+python3 ./bin/strpsearch.py download-model Q75CF3 /net/scratch/pkwon2/repeatsdb/Q75CF3

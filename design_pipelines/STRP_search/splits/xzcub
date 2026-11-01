@@ -1,0 +1,10 @@
+python3 ./bin/strpsearch.py download-model Q13E64 /net/scratch/pkwon2/repeatsdb/Q13E64
+python3 ./bin/strpsearch.py download-model Q13EQ1 /net/scratch/pkwon2/repeatsdb/Q13EQ1
+python3 ./bin/strpsearch.py download-model Q13ER0 /net/scratch/pkwon2/repeatsdb/Q13ER0
+python3 ./bin/strpsearch.py download-model Q13F24 /net/scratch/pkwon2/repeatsdb/Q13F24
+python3 ./bin/strpsearch.py download-model Q13LW5 /net/scratch/pkwon2/repeatsdb/Q13LW5
+python3 ./bin/strpsearch.py download-model Q13MI3 /net/scratch/pkwon2/repeatsdb/Q13MI3
+python3 ./bin/strpsearch.py download-model Q13Q00 /net/scratch/pkwon2/repeatsdb/Q13Q00
+python3 ./bin/strpsearch.py download-model Q13QH6 /net/scratch/pkwon2/repeatsdb/Q13QH6
+python3 ./bin/strpsearch.py download-model Q13QV1 /net/scratch/pkwon2/repeatsdb/Q13QV1
+python3 ./bin/strpsearch.py download-model Q13RB8 /net/scratch/pkwon2/repeatsdb/Q13RB8

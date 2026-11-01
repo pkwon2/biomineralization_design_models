@@ -1,0 +1,5 @@
+python3 ./bin/strpsearch.py download-model W0T5P4 /net/scratch/pkwon2/repeatsdb/W0T5P4
+python3 ./bin/strpsearch.py download-model W5DYE3 /net/scratch/pkwon2/repeatsdb/W5DYE3
+python3 ./bin/strpsearch.py download-model W8DXL4 /net/scratch/pkwon2/repeatsdb/W8DXL4
+python3 ./bin/strpsearch.py download-model X1WE18 /net/scratch/pkwon2/repeatsdb/X1WE18
+python3 ./bin/strpsearch.py download-model X1WGX5 /net/scratch/pkwon2/repeatsdb/X1WGX5

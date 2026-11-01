@@ -1,0 +1,10 @@
+python3 ./bin/strpsearch.py download-model Q8BHD1 /net/scratch/pkwon2/repeatsdb/Q8BHD1
+python3 ./bin/strpsearch.py download-model Q8BHI4 /net/scratch/pkwon2/repeatsdb/Q8BHI4
+python3 ./bin/strpsearch.py download-model Q8BHJ5 /net/scratch/pkwon2/repeatsdb/Q8BHJ5
+python3 ./bin/strpsearch.py download-model Q8BHL5 /net/scratch/pkwon2/repeatsdb/Q8BHL5
+python3 ./bin/strpsearch.py download-model Q8BHN3 /net/scratch/pkwon2/repeatsdb/Q8BHN3
+python3 ./bin/strpsearch.py download-model Q8BI66 /net/scratch/pkwon2/repeatsdb/Q8BI66
+python3 ./bin/strpsearch.py download-model Q8BI67 /net/scratch/pkwon2/repeatsdb/Q8BI67
+python3 ./bin/strpsearch.py download-model Q8BI69 /net/scratch/pkwon2/repeatsdb/Q8BI69
+python3 ./bin/strpsearch.py download-model Q8BI73 /net/scratch/pkwon2/repeatsdb/Q8BI73
+python3 ./bin/strpsearch.py download-model Q8BI99 /net/scratch/pkwon2/repeatsdb/Q8BI99
