@@ -1,0 +1,34 @@
+MODEL        1
+ATOM      1  N   GLU A  76      -6.862   4.027   4.186  1.00 21.31           N
+ATOM      2  CA  GLU A  76      -8.122   3.499   3.715  1.00 21.31           C
+ATOM      3  C   GLU A  76      -8.452   2.358   4.668  1.00 21.31           C
+ATOM      4  O   GLU A  76      -9.432   2.468   5.434  1.00 36.53           O
+ATOM      5  CB  GLU A  76      -7.839   3.101   2.303  1.00 36.53           C
+ATOM      6  CG  GLU A  76      -8.802   2.191   1.686  1.00 36.53           C
+ATOM      7  CD  GLU A  76      -8.692   2.196   0.184  1.00 36.53           C
+ATOM      8  OE1 GLU A  76      -7.638   2.224  -0.462  1.00 36.53           O
+ATOM      9  OE2 GLU A  76      -9.718   2.224  -0.456  1.00 36.53           O
+ENDMDL
+MODEL        2
+ATOM      1  N   GLU A  76       3.060   4.027   4.186  1.00 21.31           N
+ATOM      2  CA  GLU A  76       1.800   3.499   3.715  1.00 21.31           C
+ATOM      3  C   GLU A  76       1.470   2.358   4.668  1.00 21.31           C
+ATOM      4  O   GLU A  76       0.490   2.468   5.434  1.00 36.53           O
+ATOM      5  CB  GLU A  76       2.083   3.101   2.303  1.00 36.53           C
+ATOM      6  CG  GLU A  76       1.120   2.191   1.686  1.00 36.53           C
+ATOM      7  CD  GLU A  76       1.230   2.196   0.184  1.00 36.53           C
+ATOM      8  OE1 GLU A  76       2.284   2.224  -0.462  1.00 36.53           O
+ATOM      9  OE2 GLU A  76       0.204   2.224  -0.456  1.00 36.53           O
+ENDMDL
+MODEL        3
+HETATM    1 Ca2p CAL B  31     -11.162   6.086  -1.220  1.00  0.00          Ca
+HETATM    2 Ca2p CAL B  54      -8.682   8.845  -2.574  1.00  0.00          Ca
+HETATM    3 Ca2p CAL B  58      -8.682   3.102  -2.574  1.00  0.00          Ca
+HETATM    4 Ca2p CAL B  79      -6.201   6.086  -1.220  1.00  0.00          Ca
+HETATM    5 Ca2p CAL B 102      -3.721   8.845  -2.574  1.00  0.00          Ca
+HETATM    6 Ca2p CAL B 106      -3.721   3.102  -2.574  1.00  0.00          Ca
+HETATM    7 Ca2p CAL B 127      -1.240   6.086  -1.220  1.00  0.00          Ca
+HETATM    8 Ca2p CAL B 150       1.240   8.845  -2.574  1.00  0.00          Ca
+HETATM    9 Ca2p CAL B 154       1.240   3.102  -2.574  1.00  0.00          Ca
+ENDMDL
+END
